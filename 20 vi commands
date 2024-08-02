@@ -1,0 +1,20 @@
+i insert text
+:w save
+:q exit
+a insert after cursor
+esc normal mode
+h move left
+k move up
+j move down
+$ end of the line
+dd delete the current line
+yy copy current line
+b move to beginning of previous word
+:wq save and quit
+:q! quit without saving 
+n repeat search in same direction 
+N repeat search in opp direction
+/pattern search for pattern in text
+0 move begining of line
+l move right
+ctrl + r redo the last undone change
