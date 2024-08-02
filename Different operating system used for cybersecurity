@@ -1,11 +1,25 @@
 1.parrot os
 2.kali linux
-3.backbox
+3.ubuntu
 4.blackarch
-5.fedora security lab
+5.node zero
 6.caine
-7.network security toolkit
+7.puppy linux
 8.linux kodachi
 
 Steps to download kali linux OS
-downloaded it using kali.com website 
+
+Download iso file from kali linux page
+In vmware workstation create new vm
+Then give the path where iso file is downloaded 
+Then give next
+It asks for vm name and select the max disk size
+Click finish
+
+Open Vm workstation to install kali OS
+click on play vm
+click graphical install
+select passward hostname language country
+installation is done kali linux is ready to use
+
+
