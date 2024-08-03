@@ -1,0 +1,10 @@
+ls list of all files
+pwd present working directory
+echo print
+uname -a current kernel
+echo $SHELL current shell
+cd change directory 
+alias create shortcut for commands
+man manual page
+whoami user name 
+sudo apt-get update 
