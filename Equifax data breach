@@ -1,1 +1,27 @@
 
+
+### Equifax Data Breach (2017)
+
+**1. Threat:**
+A threat is any circumstance or event with the potential to cause harm to a system or organization. In this case, the threat was cybercriminals seeking to exploit vulnerabilities in Equifax's systems to gain unauthorized access to sensitive data.
+
+**2. Vulnerability:**
+A vulnerability is a weakness in a system that can be exploited by a threat to gain unauthorized access to an asset. The key vulnerability in the Equifax breach was an unpatched Apache Struts web application framework. Despite a patch being available, Equifax failed to apply it, leaving their systems exposed.
+
+**3. Attack:**
+An attack is an attempt to exploit a vulnerability to cause harm or unauthorized access. In the Equifax incident, the attack involved cybercriminals exploiting the unpatched Apache Struts vulnerability to gain access to Equifax's internal systems.
+
+**4. Risk:**
+Risk is the potential for loss or damage when a threat exploits a vulnerability. For Equifax, the risk involved the potential exposure of sensitive personal information of millions of individuals, which could lead to identity theft, financial loss, and legal repercussions for the company.
+
+**5. Exploit:**
+An exploit is a piece of software, data, or sequence of commands that takes advantage of a vulnerability to cause unintended or unanticipated behavior. In this case, the exploit was a specific technique used by the attackers to leverage the Apache Struts vulnerability, allowing them to penetrate Equifax's systems.
+
+**6. Asset:**
+An asset is anything of value to an organization that needs protection. For Equifax, the primary assets at risk were the personal and financial data of approximately 147 million individuals, including Social Security numbers, birth dates, addresses, and credit card numbers.
+
+**7. Impact:**
+Impact refers to the consequences or damage resulting from a successful attack. The impact of the Equifax breach was substantial, including the exposure of personal data of millions of individuals, a significant loss of trust and reputation for Equifax, financial losses estimated in the hundreds of millions of dollars, numerous lawsuits, and regulatory penalties. Additionally, affected individuals faced potential identity theft and fraud.
+
+### Summary:
+The Equifax data breach is a classic example of a cybersecurity incident where a significant vulnerability was exploited by a threat, resulting in an attack on critical assets. The risk was high due to the nature of the data involved, and the impact was severe, highlighting the importance of timely vulnerability management and robust cybersecurity practices.
