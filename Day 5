@@ -1,0 +1,55 @@
+1. Malware
+    Viruses
+    Worms
+    Trojans
+    Ransomware
+    Spyware
+    Adware
+
+2. Phishing
+   - Email phishing
+   - Spear phishing
+   - Whaling
+   - Vishing (voice phishing)
+   - Smishing (SMS phishing)
+
+3. Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
+   - Network flooding
+   - Application layer attacks
+
+4. Man-in-the-Middle (MitM) Attacks
+   - Eavesdropping
+   - Session hijacking
+   - HTTPS spoofing
+
+5. SQL Injection
+   - Database manipulation
+   - Unauthorized data retrieval
+
+6. Cross-Site Scripting (XSS)
+   - Stored XSS
+   - Reflected XSS
+   - DOM-based XSS
+
+7. Password Attacks
+   - Brute force attacks
+   - Dictionary attacks
+   - Credential stuffing
+
+8. Advanced Persistent Threats (APTs)
+   - Long-term infiltration
+   - Data exfiltration
+
+9. Insider Threats
+   - Data theft
+   - Sabotage
+
+10. Zero-Day Exploits
+    - Exploiting unknown vulnerabilities
+
+11. Drive-by Downloads
+    - Malicious software download without user's knowledge
+
+12. IoT Attacks
+    - Device hijacking
+    - Botnet attacks
