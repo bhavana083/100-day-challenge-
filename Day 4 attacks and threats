@@ -1,18 +1,12 @@
+Types of attacks and threats are as follows:
 1. Malware
-    Viruses
-    Worms
-    Trojans
-    Ransomware
-    Spyware
-    Adware
-
+   - Viruses
+    -Worms
+    -Trojans
 2. Phishing
    - Email phishing
    - Spear phishing
    - Whaling
-   - Vishing (voice phishing)
-   - Smishing (SMS phishing)
-
 3. Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
    - Network flooding
    - Application layer attacks
@@ -33,9 +27,7 @@
 
 7. Password Attacks
    - Brute force attacks
-   - Dictionary attacks
-   - Credential stuffing
-
+   - Dictionary attack
 8. Advanced Persistent Threats (APTs)
    - Long-term infiltration
    - Data exfiltration
@@ -53,3 +45,4 @@
 12. IoT Attacks
     - Device hijacking
     - Botnet attacks
+
