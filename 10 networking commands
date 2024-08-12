@@ -1,0 +1,55 @@
+the ten essential networking commands commonly used in various operating systems like Linux, Windows, and macOs are
+
+1. ping
+   - Purpose: Tests the reachability of a host on a network and measures the round-trip time for messages sent.
+   - Usage: `ping <hostname/IP>`
+   - Example: `ping google.com`
+
+2. **traceroute/tracert
+   - Purpose: Traces the path that a packet takes from the source to the destination. It helps identify where delays or failures occur in the network.
+   - Usage: 
+     - Linux/macOS: `traceroute <hostname/IP>`
+     - Windows: `tracert <hostname/IP>`
+   - Example: `tracert google.com`
+
+3. ipconfig/ifconfig
+   - Purpose: Displays or configures the IP configuration of network interfaces.
+   - Usage:
+     - Windows: `ipconfig`
+     - Linux/macOS: `ifconfig`
+   - Example: `ipconfig /all` (Windows) or `ifconfig` (Linux/macOS)
+
+4. netstat
+   - Purpose: Displays network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.
+   - Usage: `netstat [options]`
+   - Example: `netstat -an` (Displays all active connections and listening ports)
+
+ 5. nslookup
+   - Purpose: Queries DNS servers to obtain domain name or IP address mapping.
+   - Usage: `nslookup <domain/IP>`
+   - Example: `nslookup google.com`
+
+6. dig
+   - Purpose: Queries DNS servers and displays detailed information about DNS records.
+   - Usage: `dig <domain>`
+   - Example: `dig google.com`
+
+ 7. route
+   - Purpose: Displays and modifies the IP routing table.
+   - Usage: `route [options]`
+   - Example: `route -n` (Displays the routing table without resolving IPs to hostnames)
+
+8. arp
+   - Purpose: Displays and modifies the ARP (Address Resolution Protocol) cache.
+   - Usage: `arp [options]`
+   - Example: `arp -a` (Displays the current ARP table)
+
+ 9.ssh
+   - Purpose: Connects to a remote server or device securely via SSH (Secure Shell).
+   - Usage: `ssh <username>@<hostname/IP>`
+   - Example: `ssh user@192.168.1.1`
+
+ 10.tcpdump
+   - Purpose: Captures and analyzes network packets transmitted over a network interface.
+   - Usage: `tcpdump [options]`
+   - Example: `tcpdump -i eth0` (Captures packets on the `eth0` interface)
